@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="271e1ae2-af08-4ce3-8afe-e6fb24dc3bea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../calc-core/lab-01-expr-calc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calc-core/out/production/lab-01-expr-calc/Lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calc-core/src/Lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-01-expr-calc-gradle/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-01-expr-calc-gradle/lab-01-expr-calc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-01-expr-calc-gradle/out/production/lab-01-expr-calc/Lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-01-expr-calc-gradle/src/Lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-01-expr-calc/lab-01-expr-calc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab-01-expr-calc/out/production/lab-01-expr-calc/Lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinScripting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/lab-01-expr-calc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/BinOpKind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/BinaryExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/BinaryExpressionImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/ComputeExpressionVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/DebugRepresentationExpressionVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/Expression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/ExpressionParseException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/ExpressionVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/Lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/Literal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/LiteralImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/ParenthesisExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/ParenthesisExpressionImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/ParserImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/ParserImpl$Token.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/ParserImpl$TokenType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/ParserImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/ToStringVisitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/UnOpKind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/UnaryExpression.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/UnaryExpressionImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/out/production/lab-01-expr-calc/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/BinOpKind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/BinaryExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/BinaryExpressionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/ComputeExpressionVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/DebugRepresentationExpressionVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/ExpressionVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/Lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/Literal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/LiteralImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/ParenthesisExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/ParenthesisExpressionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/ParserImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/ToStringVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/UnOpKind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/UnaryExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/UnaryExpressionImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/src/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/task.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-core/variance.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab-01-expr-calc/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab-01-expr-calc/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21ilGeFwZlD2bWzOSCCTZpNnQ6c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="lab-03-calc-gui.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="271e1ae2-af08-4ce3-8afe-e6fb24dc3bea" name="Changes" comment="" />
+      <created>1638431693542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638431693542</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
